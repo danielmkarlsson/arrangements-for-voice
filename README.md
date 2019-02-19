@@ -12,4 +12,4 @@ I wanted to explore the idea of the uncanny valley. This is in a sense a failed 
 
 **• Now what?**  
 
-Well, you could try to get these files running on your machine. If you are interested in how this was done then that might be interesting. It's MIDI so you could send it to anything that accepts MIDI. You could mess around with it and maybe find your own thing.
+Well, you could try to get these files running on your machine. If you are interested in how this was done then that might be interesting. It's MIDI, so you could send it to anything that accepts MIDI. You could mess around with it and maybe find your own thing.
