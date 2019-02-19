@@ -3,8 +3,6 @@
 
 ![alt text](https://github.com/danielmkarlsson/arrangements-for-voice/blob/master/CODE002.jpg "CODE002-album-cover")
 
-Released on [CO-DEPENDENT](https://co-dependent.bandcamp.com/album/code002-2) February 19 2019.
-
 **• Whatsitdo?**  
 
 SuperCollider sends MIDI to Reaper.
@@ -16,4 +14,7 @@ I wanted to explore the idea of the uncanny valley. This is in a sense a failed 
 **• Now what?**  
 
 Well, you could try to get these files running on your machine. If you are interested in how this was done then that might be interesting. It's MIDI, so you could send it to anything that accepts MIDI. You could mess around with it and maybe find your own thing.
+
+Released on [CO-DEPENDENT](https://co-dependent.bandcamp.com/album/code002-2) February 19 2019.
+
 
