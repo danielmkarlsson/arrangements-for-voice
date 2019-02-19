@@ -1,6 +1,7 @@
-![alt text](https://github.com/danielmkarlsson/arrangements-for-voice/blob/master/CODE002.jpg "CODE002-album-cover")
 
-## Arrangements for voice
+# Arrangements for voice
+
+![alt text](https://github.com/danielmkarlsson/arrangements-for-voice/blob/master/CODE002.jpg "CODE002-album-cover")
 
 Released on [CO-DEPENDENT](https://co-dependent.bandcamp.com/album/code002-2) February 19 2019.
 
